@@ -1,8 +1,7 @@
-# intro
-All about the club:
+# Intro: All about the club
 "to be a good horizontal leader, you must know how to be trusted – and how to trust."
 
-* Currently migrating from [drive](https://docs.google.com/document/d/179a0z2PMum3ukpEWOt_Z_I0118wY9MENZohIYo4dm2U/edit?usp=sharing) 
+* Currently migrating from [top secret drive](https://docs.google.com/document/d/179a0z2PMum3ukpEWOt_Z_I0118wY9MENZohIYo4dm2U/edit?usp=sharing) 
 
 ## Plans for Fall 2020-21:
 Weekly Meetings:
@@ -22,7 +21,8 @@ Part Four:
 
 ## Leadership Structure
 Applications/elections will occur every quarter to decide on leadership.
-Positions/Commitees:
+
+### Positions/Commitees:
 - CONNECTING:
 Responsible for maintaining the overal organization of the cyphnx society. This includes but it not limited to: serving as membership/committee/university liason, scheduling weekly meetings, facilitating and ensuring efficient communication across commitees and membership.
 - EDUCATING:
@@ -34,4 +34,4 @@ Community outreach, educational outreach, social outreach. Basically, responsibl
 - RESEARCH:
 Our membership does awesome things. Research keeps record of the bomb ass work we all be doing and also collects research done on topics relevant to CyPhnx Society's interests.
 - WEB MASTERY:
-Responsible for our website! Aka, for now, creating it.
+Responsible for our website! Aka (for now) creating it.
