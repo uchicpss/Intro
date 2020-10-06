@@ -2,7 +2,7 @@
 All about the club:
 "to be a good horizontal leader, you must know how to be trusted – and how to trust."
 
-* Currently migrating from [drive] (https://docs.google.com/document/d/179a0z2PMum3ukpEWOt_Z_I0118wY9MENZohIYo4dm2U/edit?usp=sharing) *
+* Currently migrating from [drive](https://docs.google.com/document/d/179a0z2PMum3ukpEWOt_Z_I0118wY9MENZohIYo4dm2U/edit?usp=sharing) 
 
 ## Plans for Fall 2020-21:
 Weekly Meetings:
