@@ -23,15 +23,15 @@ Part Four:
 ## Leadership Structure
 Applications/elections will occur every quarter to decide on leadership.
 Positions/Commitees:
-- Connecting
+- CONNECTING:
 Responsible for maintaining the overal organization of the cyphnx society. This includes but it not limited to: serving as membership/committee/university liason, scheduling weekly meetings, facilitating and ensuring efficient communication across commitees and membership.
-- Educating
+- EDUCATING:
 Responsible for maintaing and expanding our resources and tools. Primary role is to educate our membership from beginner knowledge to advanced. This will be done by holding weekly workshops. 
-- Training
+- TRAINING:
 Responsible for managing our team for Capture the Flag competitions. This includes maintaining and expanding our resources for practicing skillz. 
-- Outreach
+- OUTREACH:
 Community outreach, educational outreach, social outreach. Basically, responsible for all communication and club representation. Keeping us looking cool and clean, or however we wish to be seen.
-- Research
+- RESEARCH:
 Our membership does awesome things. Research keeps record of the bomb ass work we all be doing and also collects research done on topics relevant to CyPhnx Society's interests.
-- Web Mastery
+- WEB MASTERY:
 Responsible for our website! Aka, for now, creating it.
