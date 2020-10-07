@@ -2,6 +2,7 @@
 "to be a good horizontal leader, you must know how to be trusted – and how to trust."
 
 * Currently migrating from [top secret drive](https://docs.google.com/document/d/179a0z2PMum3ukpEWOt_Z_I0118wY9MENZohIYo4dm2U/edit?usp=sharing) 
+* Join the [listhost](https://lists.uchicago.edu/web/info/securityclub)
 
 ## Plans for Fall 2020-21:
 Weekly Meetings:
