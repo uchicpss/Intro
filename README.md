@@ -4,24 +4,25 @@
 * Currently migrating from [top secret drive](https://docs.google.com/document/d/179a0z2PMum3ukpEWOt_Z_I0118wY9MENZohIYo4dm2U/edit?usp=sharing) 
 * Join the [listhost](https://lists.uchicago.edu/web/info/securityclub)
 
-## Plans for Fall 2020-21:
+## Plans for Winter 2020-21:
 Weekly Meetings:
-2hr window for virtual gatherings will be held two times a week.
+1.5hr window for virtual gatherings will be held once a week. We will try to adhere to the following format for our meetings. Please check that you are on the email listhost and receiving our announcements!
 
 Part One:
-- Presentation on current events/ new tech/ ethics discussion.
+- Committee Meeting for upcoming plans/proposals
 
 Part Two:
-- Intro/review skill.
+- Presentation on current events/ new tech/ ethics discussion.
 
 Part Three:
-- Committee Meeting for upcoming plans/proposals
+- Intro/review skill.
 
 Part Four:
 - CTF Challenge.
 
+
 ## Leadership Structure
-Applications/elections will occur every quarter to decide on leadership.
+Applications/elections will occur every quarter to decide on leadership. See Bylaws for details.
 
 ### Positions/Commitees:
 - CONNECTING:
